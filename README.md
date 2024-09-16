@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @MeeraChothe259
 - 🌱 I’m currently learning Java
-- SE Computer Engineering at Datta Meghe College of Engineering,Airoli
-- Coding enthusiast
-- Keen interest in web
+
 
 
 
